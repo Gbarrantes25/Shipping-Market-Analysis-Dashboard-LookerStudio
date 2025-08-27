@@ -30,6 +30,13 @@
   </details>
 
 
-- [Enlace de Proyecto](https://lookerstudio.google.com/reporting/586bef1d-15bd-47a8-a943-0ab27c5edd9e)
 
+
+
+## Objetivo: 
+
+- Analizar la cuota de mercado (TEU's) que tenemos por continente, país y puerto de (origen/destino).
+- Analizar la cuota de mercado (TEU's) por puerto peruano, así como ver el tipo de carga (LCL/FCL) y tipo de contenedor.
+- Analizar los top de productos y bienes primarios más importados y exportados.
+- <a href="https://lookerstudio.google.com/reporting/586bef1d-15bd-47a8-a943-0ab27c5edd9e" target="_blank">Enlace de proyecto</a>
 
