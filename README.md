@@ -21,6 +21,9 @@ Diseñado para analizar las importaciones y exportaciones, enfocado al mercado p
 
 ## ⚙️ Configuración del Entorno
 - Software Necesario: Looker Studio y Big Query.
+- Instalación:
+  - Ingresar con tu cuenta de gmail a [Looker Studio](https://lookerstudio.google.com/overview)
+  - Ingresar con tu cuenta de gmail a [Big Query](https://cloud.google.com/bigquery?utm_source=google&utm_medium=cpc&utm_campaign=latam-LATAM-all-es-dr-SKWS-all-all-trial-b-dr-1710136-LUAC0020579&utm_content=text-ad-none-any-DEV_c-CRE_688140023012-ADGP_Hybrid+%7C+SKWS+-+BRO+%7C+Txt_Usecases-Big+Query-KWID_43700079279114646-kwd-35927591586&utm_term=KW_big%20query-ST_big+query&gclsrc=aw.ds&gad_source=1&gad_campaignid=20946471024&gclid=EAIaIQobChMI0PamzJ_FjwMVxkVIAB3DahxvEAAYASAAEgK_m_D_BwE)
 - [Enlace de Proyecto](https://lookerstudio.google.com/reporting/586bef1d-15bd-47a8-a943-0ab27c5edd9e)
 
 
