@@ -1,7 +1,7 @@
 # Shipping Market Analysis (Perú)
 
 ## 📃 Descripción General
-Diseñado para analizar las importaciones y exportaciones, enfocado al mercado peruano.
+Diseñado para analizar las importaciones y exportaciones, enfocado al mercado peruano (incluye datos ficticios).
 
 
 ## 📊 Contenido del proyecto
