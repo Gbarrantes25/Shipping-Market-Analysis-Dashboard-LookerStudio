@@ -39,7 +39,7 @@ Diseñado para analizar las importaciones y exportaciones, enfocado al mercado p
 - Transfromación de datos en Big Query: Creación vista "Consolidado" para unir los 3 archivos .CSV con la siguiente consulta.
 
   
-  <code>CREATE VIEW Naviera.Consolidado AS (SELECT * FROM my-project-dashboard-468021.Naviera.Datos_*)</code> 
+  <code>CREATE VIEW Naviera.Consolidado AS (SELECT * FROM my-project-dashboard-468021.Naviera.`Datos_*`)</code> 
 
 
 - Diseño Interactivo: Uso de segmentación de datos y segmentación de botones para agregar imagen.
