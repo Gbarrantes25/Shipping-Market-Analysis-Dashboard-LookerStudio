@@ -11,6 +11,10 @@ Diseñado para analizar las importaciones y exportaciones, enfocado al mercado p
 
 
 ## 🛠️ Herramientas y Tecnologías Utilizadas
+- Fuente de datos:
+  - [Datos 2023](https://docs.google.com/spreadsheets/d/1NFHB9kHIePkW-gXVcUuxzk06gSXOMJvK0COD3KpIrV0/edit?usp=sharing)
+  - [Datos 2024](https://docs.google.com/spreadsheets/d/1YjHdPmS_foWoBMGu3F8W9wfiZD7Vyr_yX780QreKBbY/edit?usp=sharing)
+  - [Datos 2025](https://docs.google.com/spreadsheets/d/1-tSD6dO8szA_4wIGgMLv7jaxSXKdnwA2AyyZEaSPDqQ/edit?usp=sharing)
 - Visualización: Looker Studio.
 - Fuente de Datos: Vista de Big Query
   - Comando de consulta: <code>SELECT * FROM my-project-dashboard-468021.Naviera.Consolidado</code>
