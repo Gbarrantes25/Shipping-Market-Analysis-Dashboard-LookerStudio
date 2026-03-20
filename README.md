@@ -1,8 +1,12 @@
 # Shipping Market Analysis (Perú)
 
 ## 📃 Descripción General
-Diseñado para analizar las importaciones y exportaciones, enfocado al mercado peruano (incluye datos ficticios).
-
+Dashboard de Análisis del Mercado Naviero desarrollado en Looker Studio, diseñado para analizar el flujo de importaciones y exportaciones del mercado peruano mediante datos de comercio marítimo.
+Este proyecto transforma datos de transporte marítimo en información estratégica para el sector logístico mediante:
+- 🚢 2 Vistas Analíticas: Importación y Exportación con toggle interactivo.
+- 🌍 Análisis Geográfico: Cuota de mercado por continente y país.
+- 📈 Sector Económico: Agroindustria, Pesca, Textil, Minería y No Commodities.
+- 🖱️ Interactividad: Filtros por año, mes, drill-down y enlaces dinámicos.
 
 ## 📊 Contenido del proyecto
   - Participación de Mercado: Contiene una vista de información de TEU's por Línea naviera, contiennete, país y rutas marítimas.
