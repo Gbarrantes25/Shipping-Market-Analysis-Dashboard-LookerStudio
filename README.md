@@ -64,7 +64,11 @@ Este proyecto transforma datos de transporte marítimo en información estratég
 
 </details>
 
-Video: https://youtu.be/V2xN9GXihJU?si=AaJ3NEEd8mwk4nzM
+<details>
+  <summary>Video</summary>
+  https://youtu.be/V2xN9GXihJU?si=AaJ3NEEd8mwk4nzM
+</details>
+
 
 
 ## 👤 Autor
