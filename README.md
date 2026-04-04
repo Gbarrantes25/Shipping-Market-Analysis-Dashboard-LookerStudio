@@ -56,10 +56,12 @@ Este proyecto transforma datos de transporte marítimo en información estratég
 ## 🖼️ Vistas Previas del proyecto
 <details>
   <summary>Capturas</summary>
-  Importación  
-  <img width="1607" height="1050" alt="image" src="https://github.com/user-attachments/assets/a37ffab7-eeb0-46e0-875b-df7a73d185f5" />
+  Importación
+  <img width="1028" height="1029" alt="image" src="https://github.com/user-attachments/assets/58c86df2-6e79-444c-b7ca-f29d16cf8fe3" />
+  
   Exportación
-  <img width="1671" height="947" alt="image" src="https://github.com/user-attachments/assets/0e159bf6-bbb0-4cf8-9ae6-7a7373e7a561" />
+  <img width="1033" height="1027" alt="image" src="https://github.com/user-attachments/assets/b56eb58b-4ddd-4316-b27c-7e46fc749700" />
+
 </details>
 
 
